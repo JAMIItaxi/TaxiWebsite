@@ -1,0 +1,56 @@
+How to View the Website
+
+Follow these instructions to open and view the website on your computer.
+
+Step 1: Install Visual Studio Code (VSCode)
+
+1. **Download Visual Studio Code**:
+   - Go to this website: https://code.visualstudio.com/
+   - Click the **Download** button. The website should automatically suggest the right version for your operating system (Windows, macOS, or Linux).
+   - Once downloaded, **double-click** the file to install it and follow the on-screen instructions to complete the installation.
+
+Step 2: Open Visual Studio Code
+
+1. After installing, find **Visual Studio Code** on your computer.  
+   - **Windows**: Click on the **Start** button (bottom-left corner) and type "Visual Studio Code." Click on it to open.
+   - **macOS**: Open the **Applications** folder and double-click **Visual Studio Code** to open it.
+
+2. You should see the VSCode welcome screen. If it appears, just click **Close** to dismiss it.
+
+Step 3: Open the Website Files in Visual Studio Code
+
+1. Inside VSCode, click **File** in the top-left corner of the window.
+2. Select **Open Folder...** from the dropdown menu.
+3. A file browser will pop up. Navigate to the folder containing the website files you received (it should have HTML, CSS, JS files, etc.).
+4. Click the folder and click **Open**.
+
+Step 4: Install the Live Server Extension (This will allow the website to run)
+
+1. On the left side of VSCode, click the **Extensions** view (the icon that looks like four squares stacked together).
+2. In the search bar at the top, type **"Live Server"**.
+3. Click on **Live Server** by **Ritwick Dey** (the first result).
+4. On the right side, click the **Install** button to install the extension.
+
+Step 5: Open the Website in Your Browser
+
+1. Go back to the **Explorer** tab on the left side (the first icon at the top).
+2. Find the **index.html** file (or the main HTML file that opens the website).
+3. **Right-click** on **index.html** and select **Open with Live Server** from the context menu.
+
+4. Your default web browser should automatically open, and you will see the website running locally.
+
+Step 6: Browse the Website
+
+- You can now browse the website just like you would any other website.
+- If you make changes to any of the website files, just **save** them in VSCode by pressing **Ctrl + S** (Windows) or **Cmd + S** (Mac). The browser will automatically refresh and show the updates.
+
+---
+
+Troubleshooting:
+
+- **If the Live Server option doesn't appear**: Make sure you are right-clicking on the **index.html** file (or the file that opens the website).
+- **Live Server not installing**: If you have trouble installing the Live Server extension, make sure your internet connection is working, or restart VSCode and try again.
+
+---
+
+
